@@ -1,0 +1,4 @@
+Starting test for the server LOCAL
+main.sh: line 525: iperf3: command not found
+rtt min/avg/max/mdev = 0.020/0.025/0.034/0.005 ms
+main.sh: line 586: nmap: command not found

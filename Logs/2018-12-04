@@ -1,0 +1,299 @@
+Starting test for the server LOCAL
+iperf3: error - unable to connect to server: Connection refused
+rtt min/avg/max/mdev = 0.013/0.041/0.049/0.014 ms
+
+Starting test for the server LOCAL
+iperf3: error - unable to connect to server: Connection refused
+rtt min/avg/max/mdev = 0.016/0.037/0.048/0.014 ms
+Starting Nmap 7.70 ( https://nmap.org ) at 2018-12-04 17:00 -02
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000045s latency).
+
+PORT     STATE  SERVICE
+45/tcp   closed mpm
+154/tcp  closed netsc-prod
+21/udp   closed ftp
+80/udp   closed http
+5021/udp closed zenginkyo-2
+
+Nmap done: 1 IP address (1 host up) scanned in 0.12 seconds
+Starting test for the server LOCAL
+Connecting to host 127.0.0.1, port 5201
+[  5] local 127.0.0.1 port 55474 connected to 127.0.0.1 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  9.02 GBytes  77.4 Gbits/sec    0   1.25 MBytes       
+[  5]   1.00-2.00   sec  9.11 GBytes  78.3 Gbits/sec    0   1.25 MBytes       
+[  5]   2.00-3.00   sec  7.75 GBytes  66.6 Gbits/sec    0   1.69 MBytes       
+[  5]   3.00-4.00   sec  6.21 GBytes  53.4 Gbits/sec    0   1.69 MBytes       
+[  5]   4.00-5.00   sec  6.35 GBytes  54.5 Gbits/sec    0   1.69 MBytes       
+[  5]   5.00-6.00   sec  6.30 GBytes  54.1 Gbits/sec    0   1.69 MBytes       
+[  5]   6.00-7.00   sec  6.34 GBytes  54.4 Gbits/sec    0   1.69 MBytes       
+[  5]   7.00-8.00   sec  6.17 GBytes  53.0 Gbits/sec    0   1.69 MBytes       
+[  5]   8.00-9.00   sec  6.23 GBytes  53.5 Gbits/sec    0   1.69 MBytes       
+[  5]   9.00-10.00  sec  6.35 GBytes  54.6 Gbits/sec    0   1.69 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  69.8 GBytes  60.0 Gbits/sec    0             sender
+[  5]   0.00-10.04  sec  69.8 GBytes  59.7 Gbits/sec                  receiver
+
+iperf Done.
+rtt min/avg/max/mdev = 0.022/0.043/0.048/0.011 ms
+Starting Nmap 7.70 ( https://nmap.org ) at 2018-12-04 17:02 -02
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000055s latency).
+
+PORT     STATE  SERVICE
+45/tcp   closed mpm
+154/tcp  closed netsc-prod
+21/udp   closed ftp
+80/udp   closed http
+5021/udp closed zenginkyo-2
+
+Nmap done: 1 IP address (1 host up) scanned in 0.15 seconds
+Starting test for the server LOCAL
+Connecting to host 127.0.0.1, port 5201
+[  5] local 127.0.0.1 port 55494 connected to 127.0.0.1 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  8.87 GBytes  76.1 Gbits/sec    0   1.50 MBytes       
+[  5]   1.00-2.00   sec  8.98 GBytes  77.1 Gbits/sec    0   1.62 MBytes       
+[  5]   2.00-3.00   sec  8.93 GBytes  76.7 Gbits/sec    0   1.75 MBytes       
+[  5]   3.00-4.00   sec  8.85 GBytes  76.0 Gbits/sec    0   2.50 MBytes       
+[  5]   4.00-5.00   sec  6.17 GBytes  53.0 Gbits/sec    0   2.94 MBytes       
+[  5]   5.00-6.00   sec  6.18 GBytes  53.1 Gbits/sec    0   2.94 MBytes       
+[  5]   6.00-7.00   sec  6.53 GBytes  56.1 Gbits/sec    0   3.31 MBytes       
+[  5]   7.00-8.00   sec  7.38 GBytes  63.4 Gbits/sec    0   3.31 MBytes       
+[  5]   8.00-9.00   sec  7.14 GBytes  61.4 Gbits/sec    0   3.31 MBytes       
+[  5]   9.00-10.00  sec  8.78 GBytes  75.5 Gbits/sec    0   3.31 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  77.8 GBytes  66.8 Gbits/sec    0             sender
+[  5]   0.00-10.04  sec  77.8 GBytes  66.6 Gbits/sec                  receiver
+
+iperf Done.
+rtt min/avg/max/mdev = 0.028/0.044/0.048/0.009 ms
+Starting Nmap 7.70 ( https://nmap.org ) at 2018-12-04 17:04 -02
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000051s latency).
+
+PORT     STATE  SERVICE
+45/tcp   closed mpm
+154/tcp  closed netsc-prod
+21/udp   closed ftp
+80/udp   closed http
+5021/udp closed zenginkyo-2
+
+Nmap done: 1 IP address (1 host up) scanned in 0.13 seconds
+Starting test for the server LOCAL
+Connecting to host 127.0.0.1, port 5201
+[  5] local 127.0.0.1 port 55506 connected to 127.0.0.1 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  9.05 GBytes  77.8 Gbits/sec    0   1.62 MBytes       
+[  5]   1.00-2.00   sec  9.11 GBytes  78.2 Gbits/sec    0   1.81 MBytes       
+[  5]   2.00-3.00   sec  8.93 GBytes  76.7 Gbits/sec    0   1.94 MBytes       
+[  5]   3.00-4.00   sec  8.95 GBytes  76.9 Gbits/sec    0   1.94 MBytes       
+[  5]   4.00-5.00   sec  8.23 GBytes  70.7 Gbits/sec    0   2.94 MBytes       
+[  5]   5.00-6.00   sec  6.32 GBytes  54.3 Gbits/sec    0   2.94 MBytes       
+[  5]   6.00-7.00   sec  6.21 GBytes  53.3 Gbits/sec    0   2.94 MBytes       
+[  5]   7.00-8.00   sec  6.23 GBytes  53.5 Gbits/sec    0   2.94 MBytes       
+[  5]   8.00-9.00   sec  6.32 GBytes  54.3 Gbits/sec    0   2.94 MBytes       
+[  5]   9.00-10.00  sec  6.38 GBytes  54.8 Gbits/sec    0   2.94 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  75.7 GBytes  65.0 Gbits/sec    0             sender
+[  5]   0.00-10.04  sec  75.7 GBytes  64.8 Gbits/sec                  receiver
+
+iperf Done.
+rtt min/avg/max/mdev = 0.014/0.038/0.051/0.016 ms
+Starting Nmap 7.70 ( https://nmap.org ) at 2018-12-04 17:05 -02
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000042s latency).
+
+PORT     STATE  SERVICE
+45/tcp   closed mpm
+154/tcp  closed netsc-prod
+21/udp   closed ftp
+80/udp   closed http
+5021/udp closed zenginkyo-2
+
+Nmap done: 1 IP address (1 host up) scanned in 0.14 seconds
+Starting test for the server LOCAL
+Connecting to host 127.0.0.1, port 5201
+[  5] local 127.0.0.1 port 55516 connected to 127.0.0.1 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  8.97 GBytes  77.1 Gbits/sec    0   1.19 MBytes       
+[  5]   1.00-2.00   sec  8.82 GBytes  75.8 Gbits/sec    0   1.31 MBytes       
+[  5]   2.00-3.00   sec  8.83 GBytes  75.8 Gbits/sec    0   1.44 MBytes       
+[  5]   3.00-4.00   sec  8.96 GBytes  77.0 Gbits/sec    0   1.44 MBytes       
+[  5]   4.00-5.00   sec  8.00 GBytes  68.7 Gbits/sec    0   3.43 MBytes       
+[  5]   5.00-6.00   sec  6.31 GBytes  54.2 Gbits/sec    0   3.43 MBytes       
+[  5]   6.00-7.00   sec  6.30 GBytes  54.1 Gbits/sec    0   3.43 MBytes       
+[  5]   7.00-8.00   sec  6.28 GBytes  54.0 Gbits/sec    0   3.43 MBytes       
+[  5]   8.00-9.00   sec  6.28 GBytes  54.0 Gbits/sec    0   3.43 MBytes       
+[  5]   9.00-10.00  sec  6.43 GBytes  55.2 Gbits/sec    0   3.43 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  75.2 GBytes  64.6 Gbits/sec    0             sender
+[  5]   0.00-10.04  sec  75.2 GBytes  64.3 Gbits/sec                  receiver
+
+iperf Done.
+rtt min/avg/max/mdev = 0.033/0.044/0.049/0.007 ms
+Starting Nmap 7.70 ( https://nmap.org ) at 2018-12-04 17:06 -02
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000042s latency).
+
+PORT     STATE  SERVICE
+45/tcp   closed mpm
+154/tcp  closed netsc-prod
+21/udp   closed ftp
+80/udp   closed http
+5021/udp closed zenginkyo-2
+
+Nmap done: 1 IP address (1 host up) scanned in 0.17 seconds
+Starting test for the server LOCAL
+Connecting to host 127.0.0.1, port 5201
+[  5] local 127.0.0.1 port 55526 connected to 127.0.0.1 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  8.72 GBytes  74.9 Gbits/sec    0   1.56 MBytes       
+[  5]   1.00-2.00   sec  6.67 GBytes  57.3 Gbits/sec    0   1.75 MBytes       
+[  5]   2.00-3.00   sec  6.29 GBytes  54.1 Gbits/sec    0   1.87 MBytes       
+[  5]   3.00-4.00   sec  8.89 GBytes  76.3 Gbits/sec    0   1.87 MBytes       
+[  5]   4.00-5.00   sec  8.81 GBytes  75.7 Gbits/sec    0   2.37 MBytes       
+[  5]   5.00-6.00   sec  8.80 GBytes  75.6 Gbits/sec    0   3.06 MBytes       
+[  5]   6.00-7.00   sec  7.89 GBytes  67.8 Gbits/sec    0   3.25 MBytes       
+[  5]   7.00-8.00   sec  6.51 GBytes  56.0 Gbits/sec    0   3.25 MBytes       
+[  5]   8.00-9.00   sec  6.52 GBytes  56.0 Gbits/sec    0   3.25 MBytes       
+[  5]   9.00-10.00  sec  7.73 GBytes  66.4 Gbits/sec    0   3.25 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  76.8 GBytes  66.0 Gbits/sec    0             sender
+[  5]   0.00-10.04  sec  76.8 GBytes  65.8 Gbits/sec                  receiver
+
+iperf Done.
+rtt min/avg/max/mdev = 0.018/0.035/0.049/0.013 ms
+Starting Nmap 7.70 ( https://nmap.org ) at 2018-12-04 17:07 -02
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000050s latency).
+
+PORT     STATE  SERVICE
+45/tcp   closed mpm
+154/tcp  closed netsc-prod
+21/udp   closed ftp
+80/udp   closed http
+5021/udp closed zenginkyo-2
+
+Nmap done: 1 IP address (1 host up) scanned in 0.15 seconds
+Starting test for the server LOCAL
+Connecting to host 127.0.0.1, port 5201
+[  5] local 127.0.0.1 port 55578 connected to 127.0.0.1 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  8.44 GBytes  72.5 Gbits/sec    0   1.44 MBytes       
+[  5]   1.00-2.00   sec  6.36 GBytes  54.7 Gbits/sec    0   1.50 MBytes       
+[  5]   2.00-3.00   sec  8.93 GBytes  76.7 Gbits/sec    0   1.75 MBytes       
+[  5]   3.00-4.00   sec  8.96 GBytes  76.9 Gbits/sec    0   1.94 MBytes       
+[  5]   4.00-5.00   sec  8.96 GBytes  77.0 Gbits/sec    0   1.94 MBytes       
+[  5]   5.00-6.00   sec  9.00 GBytes  77.3 Gbits/sec    0   4.62 MBytes       
+[  5]   6.00-7.00   sec  8.77 GBytes  75.3 Gbits/sec    0   4.62 MBytes       
+[  5]   7.00-8.00   sec  8.77 GBytes  75.3 Gbits/sec    0   4.62 MBytes       
+[  5]   8.00-9.00   sec  6.98 GBytes  59.9 Gbits/sec    0   4.62 MBytes       
+[  5]   9.00-10.00  sec  6.13 GBytes  52.6 Gbits/sec    0   4.62 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  81.3 GBytes  69.8 Gbits/sec    0             sender
+[  5]   0.00-10.04  sec  81.3 GBytes  69.6 Gbits/sec                  receiver
+
+iperf Done.
+rtt min/avg/max/mdev = 0.014/0.042/0.049/0.014 ms
+Starting Nmap 7.70 ( https://nmap.org ) at 2018-12-04 17:08 -02
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000043s latency).
+
+PORT     STATE  SERVICE
+45/tcp   closed mpm
+154/tcp  closed netsc-prod
+21/udp   closed ftp
+80/udp   closed http
+5021/udp closed zenginkyo-2
+
+Nmap done: 1 IP address (1 host up) scanned in 0.12 seconds
+Starting test for the server LOCAL
+Connecting to host 127.0.0.1, port 5201
+[  5] local 127.0.0.1 port 55676 connected to 127.0.0.1 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  8.67 GBytes  74.5 Gbits/sec    0   1.50 MBytes       
+[  5]   1.00-2.00   sec  8.71 GBytes  74.8 Gbits/sec    0   2.19 MBytes       
+[  5]   2.00-3.00   sec  7.05 GBytes  60.5 Gbits/sec    0   2.31 MBytes       
+[  5]   3.00-4.00   sec  7.15 GBytes  61.4 Gbits/sec    0   2.87 MBytes       
+[  5]   4.00-5.00   sec  5.80 GBytes  49.8 Gbits/sec    0   2.87 MBytes       
+[  5]   5.00-6.00   sec  5.93 GBytes  50.9 Gbits/sec    0   2.87 MBytes       
+[  5]   6.00-7.00   sec  5.83 GBytes  50.0 Gbits/sec    0   2.87 MBytes       
+[  5]   7.00-8.00   sec  6.53 GBytes  56.1 Gbits/sec    0   3.00 MBytes       
+[  5]   8.00-9.00   sec  6.00 GBytes  51.5 Gbits/sec    0   3.00 MBytes       
+[  5]   9.00-10.00  sec  6.38 GBytes  54.8 Gbits/sec    0   3.18 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  68.0 GBytes  58.4 Gbits/sec    0             sender
+[  5]   0.00-10.04  sec  68.0 GBytes  58.2 Gbits/sec                  receiver
+
+iperf Done.
+rtt min/avg/max/mdev = 0.034/0.042/0.048/0.010 ms
+Starting Nmap 7.70 ( https://nmap.org ) at 2018-12-04 17:21 -02
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000041s latency).
+
+PORT     STATE  SERVICE
+45/tcp   closed mpm
+154/tcp  closed netsc-prod
+21/udp   closed ftp
+80/udp   closed http
+5021/udp closed zenginkyo-2
+
+Nmap done: 1 IP address (1 host up) scanned in 0.10 seconds
+Starting test for the server LOCAL
+Starting test for the server LOCAL
+Connecting to host 127.0.0.1, port 5201
+[  5] local 127.0.0.1 port 53318 connected to 127.0.0.1 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec   128 KBytes  1.05 Mbits/sec  6  
+[  5]   1.00-2.00   sec   128 KBytes  1.05 Mbits/sec  6  
+[  5]   2.00-3.00   sec   128 KBytes  1.05 Mbits/sec  6  
+[  5]   3.00-4.00   sec   128 KBytes  1.05 Mbits/sec  6  
+[  5]   4.00-5.00   sec   128 KBytes  1.05 Mbits/sec  6  
+[  5]   5.00-6.00   sec   128 KBytes  1.05 Mbits/sec  6  
+[  5]   6.00-7.00   sec   128 KBytes  1.05 Mbits/sec  6  
+[  5]   7.00-8.00   sec   128 KBytes  1.05 Mbits/sec  6  
+[  5]   8.00-9.00   sec   128 KBytes  1.05 Mbits/sec  6  
+[  5]   9.00-10.00  sec   128 KBytes  1.05 Mbits/sec  6  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-10.00  sec  1.25 MBytes  1.05 Mbits/sec  0.000 ms  0/60 (0%)  sender
+[  5]   0.00-10.04  sec  1.25 MBytes  1.05 Mbits/sec  0.012 ms  0/60 (0%)  receiver
+
+iperf Done.
+rtt min/avg/max/mdev = 0.035/0.045/0.049/0.004 ms
+Starting Nmap 7.70 ( https://nmap.org ) at 2018-12-04 17:23 -02
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000034s latency).
+
+PORT     STATE  SERVICE
+45/tcp   closed mpm
+154/tcp  closed netsc-prod
+21/udp   closed ftp
+80/udp   closed http
+5021/udp closed zenginkyo-2
+
+Nmap done: 1 IP address (1 host up) scanned in 0.09 seconds
+Starting test for the server LOCAL
+iperf3: error - unable to connect to server: Connection refused
+rtt min/avg/max/mdev = 0.012/0.041/0.064/0.017 ms
+Starting Nmap 7.70 ( https://nmap.org ) at 2018-12-04 17:24 -02
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000031s latency).
+
+PORT     STATE  SERVICE
+45/tcp   closed mpm
+154/tcp  closed netsc-prod
+21/udp   closed ftp
+80/udp   closed http
+5021/udp closed zenginkyo-2
+
+Nmap done: 1 IP address (1 host up) scanned in 0.13 seconds
